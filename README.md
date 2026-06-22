@@ -24,3 +24,7 @@ Stellar Evolution To Black Hole Formation
 • BSFM Vol III – Pt 3 – The Architecture of Physics
 
 • BSFM Vol III – Pt 4 – Appendices
+
+Author: John R Barnhart
+
+Status: Active Research and Development
