@@ -2,7 +2,7 @@ The Coherence Substrate: The Pillars Of The Barnhart Shell Field Model
 
 Volumes
 
-- "Volume I – Pt 1 — Physics and Derivations" (CS%20VOL%20I%20%E2%80%93%20Pt%201.docx)
+- [Volume I – Pt 1 — Physics and Derivations](CS VOL I – Pt 1.docx)
 - "Volume I – Pt 2 — Physics and Derivations" (CS%20VOL%20I%20%E2%80%93%20Pt%202.docx)
 - "Volume II — Mathematical Appendices" (CS%20VOL%20II.docx)
 - "Volume III — Derivations and Predictive Structure" (CS%20VOL%20III.docx)
